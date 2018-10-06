@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Mentor: The Mediterranean, Vol. 1, Num. 39, Serial No. 39, November 10,
   1913'
 url: http://www.gutenberg.org/ebooks/49816
